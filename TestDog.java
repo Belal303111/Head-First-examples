@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class DogTest {
+public class TestDog {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
    Dog D=new Dog();
